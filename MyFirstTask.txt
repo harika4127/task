@@ -1,0 +1,5 @@
+How Version Control Helps Development in Teams
+The term version control broadly includes any system that helps people keep track of multiple versions of something. 
+But it's used more often to describe software tools like Git. 
+Each VCS has different pros and cons, but all can be categorized into two types: central or distributed.
+
