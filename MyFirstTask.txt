@@ -3,6 +3,10 @@ The term version control broadly includes any system that helps people keep trac
 But it's used more often to describe software tools like Git. 
 Each VCS has different pros and cons, but all can be categorized into two types: central or distributed.
 
+//Below lines can be visible in new branch
+Branching offers a way to work on a new feature without affecting the main codebase.
+so that you can get it reviewed with a pull request.
+
 Thanks & Regards
 Harika 
 
