@@ -7,6 +7,8 @@ Each VCS has different pros and cons, but all can be categorized into two types:
 Branching offers a way to work on a new feature without affecting the main codebase.
 so that you can get it reviewed with a pull request.
 
+Sample Merge
+
 Thanks & Regards
 Harika 
 
