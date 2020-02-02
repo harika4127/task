@@ -7,7 +7,7 @@ Each VCS has different pros and cons, but all can be categorized into two types:
 We can create any branch from master at any time.
 which will be a copy of master branch.
 
-Merge
+Test Merge
 
 Thanks & Regards
 Harika 
